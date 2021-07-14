@@ -1,8 +1,8 @@
 ## Description
 
-Is that Vmmem eating all your RAM?. Did your WSL2 crashed, and it's not responding, even if you closed all the terminals?.
+Is that Vmmem process eating all your RAM?. Did your WSL2 crashed, and it's not responding, even if you closed all the terminals?.
 
-This will terminate all your running WSL distributions and the WSL 2 lightweight utility virtual machine.
+This will terminate all your running WSL distributions and the WSL 2 lightweight utility virtual machine. With a single click!! (maybe 2).
 
 You can then open it, and try again. 😄
 
